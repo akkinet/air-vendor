@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-airvendor-dev-9e981-authRole",
+      "UnauthRoleArn": "arn:aws:iam::408536608619:role/amplify-airvendor-dev-9e981-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::408536608619:role/amplify-airvendor-dev-9e981-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-airvendor-dev-9e981-deployment",
+      "UnauthRoleName": "amplify-airvendor-dev-9e981-unauthRole",
+      "StackName": "amplify-airvendor-dev-9e981",
+      "StackId": "arn:aws:cloudformation:ap-south-1:408536608619:stack/amplify-airvendor-dev-9e981/6f01e610-bd30-11ef-932a-0adafd1ef0ad",
+      "AmplifyAppId": "d34hhwmn9i5809"
+    },
+    "categories": {
+      "auth": {
+        "airvendorb1f38bf4": {}
+      }
+    }
+  }
+}
